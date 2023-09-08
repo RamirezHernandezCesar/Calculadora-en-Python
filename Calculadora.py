@@ -1,7 +1,7 @@
 """ 
-	*Proyecto: Creacion de una calculadora basica utilizando tkinter para la creacion de la interfaz grafica.
-	*Autor: Cesar Ramirez Hernandez.
-	*Correo: cesarramirezh1999@gmail.com
+	Proyecto: Creacion de una calculadora basica utilizando tkinter para la creacion de la interfaz grafica.
+	Autor: Cesar Ramirez Hernandez.
+	Correo: cesarramirezh1999@gmail.com
 """
 #Cargando las librerias
 from tkinter import * 
