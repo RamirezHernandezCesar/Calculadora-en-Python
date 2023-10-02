@@ -12,4 +12,9 @@
 ![Calculadora](https://github.com/RamirezHernandezCesar/Calculadora-en-Python/assets/144304302/c1dd4641-481b-4d45-ad1b-3082ce7c5603)
 
 
+Autor: Cesar Ramirez Hernandez
+
+Fecha de actualizacion: 02-10-2023
+
+
 
